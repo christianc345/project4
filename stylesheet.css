@@ -1,0 +1,65 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+regular {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:
+}
+p.board{
+	border-style: solid;
+	border-width; 25px;
+	border-color: red;
+	padding: 25px;
+	margin: 25px;
+	color:red;
+}
+.menulist a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: graffiti;
+
+}
+.menulist a:hover {
+	background-color: #FFB4F4
+}
+.menulist a:hover {
+	float: left;
+}
+
+
+
+
+
+body
+{
+Background-color:BLACK;
+color: blue
+}
